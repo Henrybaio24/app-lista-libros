@@ -1,0 +1,30 @@
+{
+    "libros": 
+    [
+        {
+            "id": 1,
+            "nombre": "Huasipungo",
+            "autor": "Jorge Icaza",
+            "año": 1960
+        },
+        {
+            "id": 2,
+            "nombre": "Los Sangurimas",
+            "autor": "José de la Cuadra",
+            "año": 1903
+        },
+        {
+            "id": 3,
+            "nombre": " María Jesús",
+            "autor": "Medardo Ángel Silva",
+            "año": 1950
+        },
+        {
+            "id": 4,
+            "nombre": "A la costa",
+            "autor": " Luis Alfredo Martinez",
+            "año": 1904
+        },
+        
+    ]
+}
